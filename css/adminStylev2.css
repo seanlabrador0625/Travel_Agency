@@ -1,0 +1,43 @@
+/* T O U R  P A C K A G E */
+.tour-package-content {
+    position: fixed !important;
+    border: 2px solid rgba(16, 12, 4, 0.173) !important;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.133) !important;
+    background-color: #fff !important;
+    border-radius: 8px !important;
+    height: 82vh !important;
+    margin: auto !important;
+    padding: 5px !important;
+    width: 80% !important;
+    left: 17.5% !important;
+    top: 13% !important;
+    padding-bottom: 0 !important;
+    max-height: 82vh !important;
+    overflow-y: auto !important;
+    margin-top: 10px !important;
+    overflow-x: auto !important;
+    overflow-y: auto !important;
+    white-space: nowrap !important;
+}
+
+/*  Tour Package    */
+.tour-card {
+    border: 1px solid #D0D0D0 !important;
+    padding: 15px !important;
+    margin: 10px !important;
+    box-shadow: 0 0 8px #D0D0D0 !important;
+    z-index: 9999 !important;
+}
+
+.tour-p-container p {
+    text-wrap: wrap !important;
+    z-index: 9999 !important;
+}
+
+.modal-backdrop {
+    position: inherit !important;
+}
+
+.modal-body p {
+    text-wrap: wrap !important;
+}
