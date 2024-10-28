@@ -80,6 +80,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         <thead>
                             <tr>
                                 <th>ID</th>
+                                <th>User ID</th>
                                 <th>Tour ID</th>
                                 <th>Group ID</th>
                                 <th>Status</th>
